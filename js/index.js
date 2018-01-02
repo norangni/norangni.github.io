@@ -4,7 +4,7 @@
 $(function() {
 
 	// Text is rendered in the header section
-    typeText('.cursor', 'hi, i\'m jake', 0, 150);
+    typeText('.cursor', 'hi, i\'m nora', 0, 150);
 
 	// scrolls to next section via arrow-bottom click
 	smoothScroll(800);
